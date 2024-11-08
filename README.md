@@ -37,5 +37,5 @@ Checked the Standardize the casing of text fields to ensure consistency.
 Checked unrealistic values in numeric columns (like negative profits on sales) and corrected.
 
 8.	Final Review:
-    
-Go through the transformed data to ensure it meets the requirements.
+
+  	Go through the transformed data to ensure it meets the requirements.
