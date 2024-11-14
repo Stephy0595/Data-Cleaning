@@ -2,7 +2,7 @@
 
 This repository provides an overview of global sales and shipping performance.
 
-# Data Cleaning and Transformation
+# Data Cleaning & Transformation
 
 1.	Load the Data
    
